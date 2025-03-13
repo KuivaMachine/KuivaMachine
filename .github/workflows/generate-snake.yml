@@ -17,7 +17,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ KuivaMachine }}  # Имя пользователя GitHub
+          github_user_name: ${{ github.KuivaMachine }}  # Имя пользователя GitHub
           svg_out_path: assets/github-contribution-grid-snake.svg  # Путь для сохранения SVG
 
       - name: Commit and push
