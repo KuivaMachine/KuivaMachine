@@ -1,8 +1,13 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+ <picture>
+  <source srcset="https://i.pinimg.com/736x/f7/e4/28/f7e428776e7f5471c4d0052360de41f7.jpg" media="(prefers-color-scheme: dark)">
+  <img src="https://i.pinimg.com/736x/f7/e4/28/f7e428776e7f5471c4d0052360de41f7.jpg" alt="Описание изображения">
+</picture>
 </div>
+
+
 
 ### 🔥 About Me :
 I am a 24-year-old Backend Developer <img src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" width="30"> from Moscow.
