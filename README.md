@@ -46,11 +46,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<div></div>
 
 
 ---
 
 ### :fire: My Stats :
-http://github-readme-streak-stats.herokuapp.com?user=KuivaMachine&theme=dark&background=000000
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuivaMachine&theme=vision_friendly_dark) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuivaMachine&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
