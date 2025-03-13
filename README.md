@@ -12,9 +12,9 @@
 ### 🔥 About Me :
 I am a 24-year-old Backend Developer <img src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" width="30"> from Moscow.
 - 🎓 I’m getting a higher education in the specialty "Applied Informatics".
-- 💻 I’m working on improving my backend development skills and exploring new technologies.
-- 🧩 I enjoy solving problems on Codewars and constantly learning new tools and frameworks.
-- ✨ I strive to write clean, maintainable code without "hacks".
+- 💻 Now working on improving my backend development skills and exploring new technologies.
+- 🧩 I enjoy solving tasks on Codewars and constantly learning new tools and frameworks.
+- ✨ Strive to write clean, maintainable code without "hacks".
 - 🎨 I have a passion for design and love creating visually appealing solutions.
 - 📚 In my free time, I explore tech articles and the latest trends in software development.
 
@@ -47,5 +47,11 @@ I am a 24-year-old Backend Developer <img src="https://i.pinimg.com/originals/a6
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuivaMachine&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/KuivaMachine/KuivaMachine/blob/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+ <picture>
+  <source srcset="https://github.com/KuivaMachine/KuivaMachine/blob/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/KuivaMachine/KuivaMachine/blob/output/github-contribution-grid-snake-dark.svg" alt="Описание изображения">
+</picture>
+</div>
 <img src="https://komarev.com/ghpvc/?username=KuivaMachine&style=flat-square&color=blue" alt=""/>
