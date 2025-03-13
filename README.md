@@ -55,3 +55,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuivaMachine&theme=vision_friendly_dark) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuivaMachine&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://raw.githubusercontent.com/KuivaMachine/KuivaMachine/main/assets/github-contribution-grid-snake.svg)
