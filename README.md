@@ -2,8 +2,8 @@
 
 <div align="center">
  <picture>
-  <source srcset="https://i.pinimg.com/736x/f7/e4/28/f7e428776e7f5471c4d0052360de41f7.jpg" media="(prefers-color-scheme: dark)">
-  <img src="https://i.pinimg.com/736x/f7/e4/28/f7e428776e7f5471c4d0052360de41f7.jpg" alt="Описание изображения">
+  <source srcset="https://i.pinimg.com/736x/f7/e4/28/f7e428776e7f5471c4d0052360de41f7.jpg" width="600" height="350" media="(prefers-color-scheme: dark)">
+  <img src="https://i.pinimg.com/736x/f7/e4/28/f7e428776e7f5471c4d0052360de41f7.jpg" width="600" height="350" alt="Описание изображения">
 </picture>
 </div>
 
@@ -42,16 +42,49 @@ I am a 24-year-old Backend Developer <img src="https://i.pinimg.com/originals/a6
 [![My Skills](https://skillicons.dev/icons?i=ae,ai,figma,ps&theme=dark)](https://skillicons.dev)
 
 ---
-### :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuivaMachine&theme=vision_friendly_dark) 
+### :fire: My statistics:
+<div align="center" >
+<picture>
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuivaMachine&theme=vision_friendly_dark" media="(prefers-color-scheme: dark)">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuivaMachine&theme=github" alt="KuivaMachine's GitHub Profile Summary">
+</picture>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuivaMachine&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0"> 
+  <tr>
+    <!-- Карточка 1 -->
+    <td>
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KuivaMachine&layout=compact&theme=vision-friendly-dark" media="(prefers-color-scheme: dark)">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuivaMachine&layout=compact&theme=github" alt="Repos Per Language">
+      </picture>
+    </td>
+    <!-- Карточка 2 -->
+    <td>
+      <picture>
+        <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KuivaMachine&theme=vision_friendly_dark&utcOffset=8" media="(prefers-color-scheme: dark)">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KuivaMachine&theme=github" alt="Most Commit Language">
+      </picture>
+    </td>
+    <!-- Карточка 3 -->
+    <td>
+      <picture>
+        <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KuivaMachine&theme=vision_friendly_dark" media="(prefers-color-scheme: dark)">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KuivaMachine&theme=github" alt="GitHub Stats">
+      </picture>
+    </td>
+  </tr>
+</table>
+</div>
+
 
 
 <div align="center">
  <picture>
-  <source srcset="https://github.com/KuivaMachine/KuivaMachine/blob/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/KuivaMachine/KuivaMachine/blob/output/github-contribution-grid-snake-dark.svg" alt="Описание изображения">
+  <source srcset="https://github.com/KuivaMachine/KuivaMachine/blob/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/KuivaMachine/KuivaMachine/blob/output/github-contribution-grid-snake.svg" alt="Описание изображения">
 </picture>
 </div>
 <img src="https://komarev.com/ghpvc/?username=KuivaMachine&style=flat-square&color=blue" alt=""/>
