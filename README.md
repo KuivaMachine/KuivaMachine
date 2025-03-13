@@ -50,7 +50,7 @@ I am a 24-year-old Backend Developer <img src="https://i.pinimg.com/originals/a6
 </picture>
 </div>
 
-
+---
 <div align="center">
 <table border="0" cellpadding="0" cellspacing="0"> 
   <tr>
