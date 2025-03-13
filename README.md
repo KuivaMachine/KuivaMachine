@@ -1,59 +1,46 @@
 
-<div id="header" align="center">
-  <h1>Привет! 👋</h1>
-  <h2></h2>
-  <img src="https://www.codewars.com/users/%D0%9E%D0%BB%D0%B5%D0%B3%20%D0%97%D0%B0%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%86%D0%B5%D0%B2/badges/large"/>
-</div>
-
-<div id="badges">
-  
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  
-</div>
-<img src="https://komarev.com/ghpvc/?username=KuivaMachine&style=flat-square&color=blue" alt=""/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
+### 🔥 About Me :
+I am a 24-year-old Backend Developer <img src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" width="30"> from Moscow.
+- 🎓 I’m getting a higher education in the specialty "Applied Informatics".
+- 💻 I’m working on improving my backend development skills and exploring new technologies.
+- 🧩 I enjoy solving problems on Codewars and constantly learning new tools and frameworks.
+- ✨ I strive to write clean, maintainable code without "hacks".
+- 🎨 I have a passion for design and love creating visually appealing solutions.
+- 📚 In my free time, I explore tech articles and the latest trends in software development.
 
 ---
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<div id="header" align="center">
+  <img src="https://www.codewars.com/users/%D0%9E%D0%BB%D0%B5%D0%B3%20%D0%97%D0%B0%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%86%D0%B5%D0%B2/badges/large"/>
 </div>
 
-<div></div>
+### 🚀 Programming Languages:
+[![My Skills](https://skillicons.dev/icons?i=java,py,kotlin,html,css&theme=dark)](https://skillicons.dev)
 
+### 🌱 Development Environments and Tools:
+[![My Skills](https://skillicons.dev/icons?i=idea,spring,androidstudio,postman,pycharm,arduino,vscode&theme=dark)](https://skillicons.dev)
+
+### 💻 Data Processing Systems :
+[![My Skills](https://skillicons.dev/icons?i=postgres,kafka,firebase&theme=dark)](https://skillicons.dev)
+
+### :hammer_and_wrench: DevOps:
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github&theme=dark)](https://skillicons.dev)
+
+### 🤖 Additional Tools:
+[![My Skills](https://skillicons.dev/icons?i=gradle,linux&theme=dark)](https://skillicons.dev)
+
+### 🎨 Graphic Editors and Design:
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,figma,ps&theme=dark)](https://skillicons.dev)
 
 ---
-
 ### :fire: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuivaMachine&theme=vision_friendly_dark) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuivaMachine&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/KuivaMachine/KuivaMachine/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://komarev.com/ghpvc/?username=KuivaMachine&style=flat-square&color=blue" alt=""/>
