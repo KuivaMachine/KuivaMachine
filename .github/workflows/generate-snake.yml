@@ -1,29 +1,36 @@
-name: Generate Snake Animation
+name: generate animation
 
 on:
+  # run automatically every 24 hours
   schedule:
-    # Запускать каждый день в полночь
-    - cron: '0 0 * * *'
+    - cron: "0 */24 * * *" 
+  
+  # allows to manually run the job at any time
   workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - main
+    
+  
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
-
+    timeout-minutes: 5
+    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate snake animation
-        uses: Platane/snk@master
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.KuivaMachine }}  # Имя пользователя GitHub
-          svg_out_path: assets/github-contribution-grid-snake.svg  # Путь для сохранения SVG
-
-      - name: Commit and push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/github-contribution-grid-snake.svg
-          git commit -m "Update snake animation"
-          git push
+          github_user_name: ${{ github.KuivaMachine }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+          
+     
