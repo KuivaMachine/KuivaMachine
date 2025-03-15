@@ -2,8 +2,8 @@
 
 <div align="center">
  <picture>
-  <source srcset="https://i.pinimg.com/736x/f7/e4/28/f7e428776e7f5471c4d0052360de41f7.jpg" width="600" height="350" media="(prefers-color-scheme: dark)">
-  <img src="https://i.pinimg.com/736x/f7/e4/28/f7e428776e7f5471c4d0052360de41f7.jpg" width="600" height="350" alt="Описание изображения">
+  <source srcset="https://github.com/KuivaMachine/KuivaMachine/blob/main/q.png?raw=true" media="(prefers-color-scheme: dark)">
+  <img src="https://i.pinimg.com/736x/f7/e4/28/f7e428776e7f5471c4d0052360de41f7.jpg"alt="Описание изображения">
 </picture>
 </div>
 
