@@ -10,7 +10,7 @@
 
 
 ### 🔥 About Me :
-I am a 24-year-old Backend Developer <img src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" width="30"> from Moscow.
+I am a 24-year-old Backend Developer <img src="https://i.pinimg.com/originals/e1/c6/82/e1c6829221cf788ca7384af54b9b94ee.gif" width="30"> from Moscow.
 - 🎓 I’m getting a higher education in the specialty "Applied Informatics".
 - 💻 Now working on improving my backend development skills and exploring new technologies.
 - 🧩 I enjoy solving tasks on Codewars and constantly learning new tools and frameworks.
