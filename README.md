@@ -3,7 +3,7 @@
 <div align="center">
  <picture>
   <source srcset="https://github.com/KuivaMachine/KuivaMachine/blob/main/cat_2.gif?raw=true" media="(prefers-color-scheme: dark)">
-  <img src="https://i.pinimg.com/736x/f7/e4/28/f7e428776e7f5471c4d0052360de41f7.jpg"alt="Описание изображения">
+  <img src="https://github.com/KuivaMachine/KuivaMachine/blob/main/cat_light.gif?raw=true"alt="Описание изображения">
 </picture>
 </div>
 
