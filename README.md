@@ -30,7 +30,7 @@ I am a 24-year-old Backend Developer <img src="https://i.pinimg.com/originals/4c
 [![My Skills](https://skillicons.dev/icons?i=idea,spring,androidstudio,postman,pycharm,arduino,vscode&theme=dark)](https://skillicons.dev)
 
 ### 💻 Data Processing Systems :
-[![My Skills](https://skillicons.dev/icons?i=postgres,kafka,firebase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,kafka,firebase,redis&theme=dark)](https://skillicons.dev)
 
 ### :hammer_and_wrench: DevOps:
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github&theme=dark)](https://skillicons.dev)
