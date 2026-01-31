@@ -55,12 +55,12 @@
 <table border="0" cellpadding="0" cellspacing="0"> 
   <tr>
     <!-- Карточка 1 -->
-    <td>
+    <!-- <td>
       <picture>
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KuivaMachine&layout=compact&theme=vision-friendly-dark" media="(prefers-color-scheme: dark)">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuivaMachine&layout=compact&theme=github" alt="Repos Per Language">
       </picture>
-    </td>
+    </td> -->
     <!-- Карточка 2 -->
     <td>
       <picture>
