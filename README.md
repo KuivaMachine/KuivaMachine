@@ -8,22 +8,22 @@
 </div>
 
 
-
-### 🔥 About Me :
-I am a 24-year-old Backend Developer <img src="https://i.pinimg.com/originals/4c/4a/cf/4c4acfd0d71680054c08ad218997d68b.gif" width="30"> from Moscow.
-- 🎓 I’m getting a higher education in the specialty "Applied Informatics".
-- 💻 Now working on improving my backend development skills and exploring new technologies.
-- 🧩 I enjoy solving tasks on Codewars and constantly learning new tools and frameworks.
-- ✨ Strive to write clean, maintainable code without "hacks".
-- 🎨 I have a passion for design and love creating visually appealing solutions.
-- 📚 In my free time, I explore tech articles and the latest trends in software development.
+### [**Telegram**](https://t.me/olezha_zaostrovtsev)  
+### 🔥 Обо мне:
+Меня зовут Олежа, мне 25, и я - Fullstack-разработчик десктопных, веб и мобильных приложений <img src="https://i.pinimg.com/originals/4c/4a/cf/4c4acfd0d71680054c08ad218997d68b.gif" width="30"> из Москвы.
+- 🎓 Высшее образование по специальности "Прикладная информатика".
+- 💻 Каждый день совершенствую навыки и изучаю новые технологии программирования.
+- 🧩 Люблю решать задачки на Codewars и Coderun.
+- ✨ Пишу чистый и оптимальный код, терпеть не могу костыли.
+- 🎨 Разбираюсь в задачах UI-UX и дизайна интерфейса приложений.
+- 📚 Не сижу сутками за компьютером - люблю играть на гитаре, кататься на велосипеде и прыгать с парашютом в свободное время)
 
 ---
 <div id="header" align="center">
   <img src="https://www.codewars.com/users/%D0%9E%D0%BB%D0%B5%D0%B3%20%D0%97%D0%B0%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%86%D0%B5%D0%B2/badges/large"/>
 </div>
 
-### 🚀 Programming Languages:
+### 🚀 Языки программирования:
 [![My Skills](https://skillicons.dev/icons?i=java,py,kotlin,html,css&theme=dark)](https://skillicons.dev)
 
 ### 🌱 Development Environments and Tools:
@@ -42,7 +42,7 @@ I am a 24-year-old Backend Developer <img src="https://i.pinimg.com/originals/4c
 [![My Skills](https://skillicons.dev/icons?i=ae,ai,figma,ps&theme=dark)](https://skillicons.dev)
 
 ---
-### :fire: My statistics:
+### :fire: Статистика github:
 <div align="center" >
 <picture>
   <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuivaMachine&theme=vision_friendly_dark" media="(prefers-color-scheme: dark)">
